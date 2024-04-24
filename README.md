@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Mariam Hazem. 👋
+A Management Student at German University in Cairo
 <!--
 **mariam-hazem/mariam-hazem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
